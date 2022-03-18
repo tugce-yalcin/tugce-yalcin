@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tuğçe YALÇIN 
 - 🌱 I’m currently learning PHP, C++
-- 📫 How to reach me ...
 
 <!---
 tugce-yalcin/tugce-yalcin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
