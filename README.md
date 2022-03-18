@@ -1,7 +1,5 @@
--## 👋 Hi, I’m Tuğçe YALÇIN
-- #👀 I’m interested in WEB 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Tuğçe YALÇIN 
+- 🌱 I’m currently learning PHP, C++
 - 📫 How to reach me ...
 
 <!---
