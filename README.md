@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Tuğçe YALÇIN 
-- 🌱 I’m currently learning PHP, C++                                                      <img src="https://c.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" width="auto">
+- 🌱 I’m currently learning PHP, C++                                                     
+- 
+-   <img src="https://c.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" width="auto">
 
-
-<img src="gorsel-link" width="auto">
 <!---
 tugce-yalcin/tugce-yalcin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
