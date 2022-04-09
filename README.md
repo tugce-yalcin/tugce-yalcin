@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tuğçe YALÇIN 
-- 🌱 I’m currently learning PHP, C++
+- 🌱 I’m currently learning PHP, C++               <img src="https://c.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" width="auto">
 
 
 <img src="gorsel-link" width="auto">
@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=tugce-yalcin&show_icons=true&theme=radical)
 
 
-<img src="https://c.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" width="auto">
+
