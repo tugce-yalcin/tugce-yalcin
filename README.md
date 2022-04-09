@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tuğçe YALÇIN 
-- 🌱 I’m currently learning PHP, C++               <img src="https://c.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" width="auto">
+- 🌱 I’m currently learning PHP, C++                                                      <img src="https://c.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" width="auto">
 
 
 <img src="gorsel-link" width="auto">
