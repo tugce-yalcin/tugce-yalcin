@@ -1,4 +1,4 @@
-##👋 Hi, I’m Tuğçe YALÇIN 
+-👋 Hi, I’m Tuğçe YALÇIN 
 - 🌱 I’m currently learning PHP, C++, Laravel, Javascript 
 - 🔭 I’m currently working on the web Full Stack Developer 🚀
 - ⚡ Fun fact: I love reading, play chess, play badminton and modern art.
