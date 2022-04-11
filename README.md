@@ -1,7 +1,10 @@
--👋 Hi, I’m Tuğçe YALÇIN 
-- 🌱 I’m currently learning PHP, C++, Laravel, Javascript 
-- 🔭 I’m currently working on the web Full Stack Developer 🚀
-- ⚡ Fun fact: I love reading, play chess, play badminton and modern art.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tuğçe YALÇIN</h1>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=tugce-yalcin2&label=Profile%20views&color=0e75b6&style=flat" alt="tugceyalcin" /> </p>
+
+
+- 🌱 I’m currently learning PHP, C++, Laravel, Javascript <br>
+- 🔭 I’m currently working on the web Full Stack Developer 🚀<br>
+- ⚡ Fun fact: I love reading, play chess, play badminton and modern art.<br> <br>
 
 <img src="https://c.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" width="auto">
 
@@ -9,12 +12,35 @@
 tugce-yalcin/tugce-yalcin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br>
+  
+## 🤙 Contact with Me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/tugce-yalcin) 
-[![Instagram Badge](https://img.shields.io/badge/-LinkedIn-5463FF?style=flat-quare&labelColor=5463FF&logo=LinkedIn&logoColor=white&link=link)](https://www.linkedin.com/in/tu%C4%9F%C3%A7e-yal%C3%A7%C4%B1n-36438819a) 
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailtotugceyal@hotmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu%C4%9F%C3%A7e-yal%C3%A7%C4%B1n-36438819a)
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=tugce-yalcin&show_icons=true&theme=radical)
 
+
+### 🔧 Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+
+<br />
+
+
+[vsCode]: https://code.visualstudio.com/
+[git]: https://git-scm.com/
+[github]: https://github.com/IbrahimTalha0
+
+
+<br />
+<br />
+
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=tugce-yalcin&show_icons=true&theme=radical)<br>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tugce-yalcin&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 
 
