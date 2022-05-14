@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning PHP, C++, Laravel, Javascript <br>
-- 🔭 I’m currently working on the web Full Stack Developer 🚀<br>
+- 🔭 I’m currently working on the web Frontend Developer 🚀<br>
 - ⚡ Fun fact: I love reading, play chess, play badminton and modern art.<br> <br>
 
 <img src="https://c.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" width="auto">
