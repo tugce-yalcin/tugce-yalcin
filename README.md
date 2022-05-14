@@ -2,7 +2,7 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=tugce-yalcin2&label=Profile%20views&color=0e75b6&style=flat" alt="tugceyalcin" /> </p>
 
 
-- 🌱 I’m currently learning PHP, C++, Laravel, Javascript <br>
+- 🌱 I’m currently learning HTML, CSS, Laravel <br>
 - 🔭 I’m currently working on the web Frontend Developer 🚀<br>
 - ⚡ Fun fact: I love reading, play chess, play badminton and modern art.<br> <br>
 
