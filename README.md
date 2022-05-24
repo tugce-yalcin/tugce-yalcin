@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tuğçe YALÇIN</h1>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=tugce-yalcin2&label=Profile%20views&color=0e75b6&style=flat" alt="tugceyalcin" /> </p>
-
-
+ <h2 align="center" style="color:#A25B5B;">Front-End Developer and UI/UX Designer</h2>
 - 🌱 I’m currently learning HTML, CSS, Laravel <br>
 - 🔭 I’m currently working on the web Frontend Developer 🚀<br>
 - ⚡ Fun fact: I love reading, play chess, play badminton and modern art.<br> <br>
