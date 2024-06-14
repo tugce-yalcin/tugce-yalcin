@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">, I'm Tuğçe YALÇIN</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">, I'm Tuğçe AKARSU</h1>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=tugce-yalcin2&label=Profile%20views&color=0e75b6&style=flat" alt="tugceyalcin" /> </p>
  <h2 align="center" style="color:#A25B5B;">Front-End Developer and UI/UX Designer</h2>
 - 🌱 I’m currently learning HTML, CSS, React.js <br>
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ## 🤙 Contact with Me
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailtotugceyal@hotmail.com)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tugce-yalcin/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tugce-akarsu/)
 
 ### 🔧 Languages and Tools:
 
@@ -29,8 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
-[github]: https://github.com/IbrahimTalha0
-
+[github]: https://github.com/tugce-akarsu
 
 <br />
 <br />
