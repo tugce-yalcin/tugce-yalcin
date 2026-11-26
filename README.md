@@ -3,7 +3,7 @@
  <h2 align="center" style="color:#A25B5B;">Front-End Developer and UI/UX Designer</h2>
 - 🌱 I’m currently learning HTML, CSS, React.js <br>
 - 🔭 I’m currently working on the web Frontend Developer 🚀<br>
-- ⚡ Fun fact: I love reading, play chess, play badminton and modern art.<br> <br>
+- ⚡ Fun fact: I love reading, play piano, everything about music and modern art.<br> <br>
 
 <img src="https://c.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" width="auto">
 
